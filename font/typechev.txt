@@ -1,0 +1,116 @@
+Typewriter Chevron Deluxe
+
+by Vít Èondák
+2015-2016
+
+Mail:	gunny(a)post.cz
+Web:	fonty.condak.cz
+FB:	facebook.com/GunnyHandwritingFont
+
+En Cz Sk Pl Fr De
+
+[ English description ]
+
+Digitalized characters typed with Czech version of the Chevron Deluxe typewriter.
+I intentionally kept all flaws caused by its textile ribbon and different force of keypresses.
+The font includes all original characters and I also created some missing characters that are part of the basic ASCII set.
+
+
+[ Èeský popis ]
+
+Digitalizované písmo èeské verze psacího stroje Chevron Deluxe.
+Zámìrnì jsem zachoval témìø všechny nedokonalosti, které jsou zpùsobeny textilní páskou a rùznou silou úderu.
+Font obsahuje všechny pùvodní znaky a navíc jsem ve stejném stylu vytvoøil chybìjící znaky ze základní ASCII sady.
+
+
+[ English License ]
+
+This font is free for any use except modification and it may not be sold.
+
+If you think something in this font doesn't feel right please contact me.
+
+
+[ Èeská licence ]
+
+Tento font je zdarma pro libovolné užití s výjimkou úprav a nesmí být prodáván.
+
+Pokud ve fontu objevíte nìco, co by bylo vhodné opravit nebo doladit, tak mì prosím kontaktujte.
+
+
+---
+
+History
+
+0.20	2016-09-26
+	* fixed position of germandbls
+	+ AaOodotaccent
+
+0.19	2016-09-23
+	* fixed ccaron ecaron rcaron scaron uring
+	* all directions are fixed
+	* revised diacritic marks positions
+	* GgKkLlNnRrSsTt+commabelow
+
+0.18	2016-09-22
+	* fixed @ l degree thorn yacute
+	* fixed uppercase tilde positions
+	* 7 incorrect/unknown directions remains
+
+0.17	2016-06-30
+	* fixed intersecs to udieresis
+	* 10 incorrect/unknown directions remains
+
+0.16	2016-06-06
+	* fixed intersecs to dbls
+	* 16 incorrect/unknown directions remains
+
+0.14	2016-05-31
+	* fixed intersecs to v
+	* 27 incorrect/unknown directions remains
+
+0.13	2016-05-25
+	* fixed intersecs to o
+	* 33 incorrect/unknown directions remains
+
+0.12	2016-05-24
+	* fixed intersecs to U
+
+0.11	2016-05-23
+	* fixed intersecs: 3-9 <>
+
+0.10	2016-02-03
+	+ HhTt+bar IJ ij
+	* fixed intersecs: !%"&()*-./ 012 BCDIJT acijkt
+
+0.09	2016-02-02
+	+ AEIOU+breve HhJj+circ kgreen Ii+ogonek Tt+comma
+
+0.08	2016-02-01
+	* optimized: E O e o
+	+ OE oe AEIOU+macron IiUu+tilde Dd-croat Ww+circ
+
+0.07	2015-04-30
+	+ * AE Thorn thorn eth daggers
+	+ GgYy+circumflex
+	* &
+
+0.06	2015-04-27
+	+ #&@<> multiply guillemots section
+	+ tilde+...
+
+0.05	2015-04-26
+	+ []|(){} (C) ss
+	* ogonek+...
+
+0.04	2015-04-25
+	* A
+	+ grave+... circumflex+...
+
+0.03	2015-04-24
+	* all basic letters are separated
+
+0.02	2015-04-23
+	* separated caps
+
+0.01	2015-04-22
+	+ imported scanned letters
