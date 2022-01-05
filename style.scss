@@ -75,21 +75,30 @@ body{
   display: flex;
   justify-content: center;
   align-items: stretch;
+  flex-wrap: wrap;
   
 }
 
 .main{
   background-color: rgba(255, 255, 255, 0.5);
   padding: 2rem;
+  margin: 2rem;
+  width: 100%;
+  
   }
 
 .w1{
   background-image: url(obrazky/Lukas.jpg);
   background-position: center;
   background-size: cover;
-  margin: 6rem;
+  margin: 2rem;
+  margin-top: -1rem;
   height: 40vw;
 
+}
+
+.container{
+  width: 100vw;
 }
 
 
