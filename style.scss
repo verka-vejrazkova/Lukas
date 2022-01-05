@@ -19,14 +19,10 @@ a{
 }
 
 .container{
-  width:1600px;
+  
   margin:auto;
 }
 
-.subcontainer{
-  width:85%;
-  margin:auto;
-}
 
 body{
   background-image: url("obrazky/tabule-tmava.jpg");
@@ -74,6 +70,29 @@ body{
   transition: all 0.3s ease;
   background-color: white;
 }
+
+.mainpage{
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  
+}
+
+.main{
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 2rem;
+  }
+
+.w1{
+  background-image: url(obrazky/Lukas.jpg);
+  background-position: center;
+  background-size: cover;
+  margin: 6rem;
+  height: 40vw;
+
+}
+
+
 
 @media(max-width:1024px){
   .hamburger{
