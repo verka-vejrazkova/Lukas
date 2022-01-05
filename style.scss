@@ -27,7 +27,10 @@ a{
 body{
   background-image: url("obrazky/tabule-tmava.jpg");
   color: white;
+  font-family: Typechev-v20; 
 }
+
+
 
 .navbar{
   min-height: 70px;
@@ -53,7 +56,7 @@ body{
 }
 
 .nav-link:hover{
-  color: dodgerblue;
+  color: rgb(189, 187, 105);
 }
 
 .hamburger{
@@ -79,25 +82,33 @@ body{
   
 }
 
+@font-face {
+  font-family:Typechev-v20;
+  src: url('fonts/Typechev-v20.ttf');
+}
+
 .main{
   background-image: url("obrazky/Lukas2.jpg");
   background-position: center;
   background-size: cover;
+  box-shadow: black 0 0 1rem;
   opacity: 0.9;
   padding: 1rem;
   margin: 1rem;
   width: 100%;
+  font-family: Typechev-v20; 
   
   }
 
+h1{
+  font-family: Typechev-v20;
+}
 .w1{
   background-position: center;
   background-size: cover;
   margin: 2rem;
-  margin-top: -1rem;
   height: 60vw;
-
-}
+  }
 
 .w2{
  padding-right: 4rem;
@@ -110,6 +121,9 @@ body{
 
 
 @media(max-width:1024px){
+
+  
+
   .hamburger{
     display: block;
   }
@@ -122,6 +136,10 @@ body{
   }
   .hamburger.active .bar:nth-child(3){
     transform: translateY(-8px) rotate(-45deg);
+  }
+
+  .hamburger.active header{
+      padding-bottom: 10rem;
   }
 
   .nav-menu{
