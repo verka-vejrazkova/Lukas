@@ -150,9 +150,6 @@ h1 {
     -webkit-transform: translateY(-8px) rotate(-45deg);
             transform: translateY(-8px) rotate(-45deg);
   }
-  .hamburger.active header {
-    padding-bottom: 10rem;
-  }
   .nav-menu {
     position: fixed;
     left: -100%;
